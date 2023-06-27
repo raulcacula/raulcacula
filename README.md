@@ -9,7 +9,7 @@
  <!--[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://raulhenrique220405@gmail.com)-->
  [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raulhenrique14)
 
-![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=raulcaula&show_icons=true&theme=dracula)
+![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=raulcacula&show_icons=true&theme=dracula)
 
 ## Tecnologias que estou Praticando Atualmente
 
@@ -23,4 +23,4 @@
 
 ## Quais delas eu mais uso 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulcaula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulcacula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
